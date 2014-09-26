@@ -7,7 +7,10 @@ Ansible role to embed patch module.
 
 - Reorganize filetree to fit `galaxy` and new repos to get a better galaxy name.
 
-- Patch module to support `check-mode` SHA: ecee1b0d830917bc2f88998f1e47deaca293f799
+- Patch module to support `check-mode`
+
+	SHA: ecee1b0d830917bc2f88998f1e47deaca293f799
+	SHA: ecee1b0d
 
 ## Example Playbook
 
